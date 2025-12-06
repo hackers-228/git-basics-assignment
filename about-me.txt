@@ -1,1 +1,5 @@
 Name: Shivam
+Hobbies:
+- Reading
+- Coding
+- Gaming
