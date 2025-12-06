@@ -3,3 +3,8 @@ Hobbies:
 - Reading
 - Coding
 - Gaming
+
+Future Goals:
+- Become a developer
+- Build projects
+- Learn advanced Git
